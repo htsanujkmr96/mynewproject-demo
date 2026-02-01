@@ -1,5 +1,5 @@
 # mynewproject-demo
-This is my first Git Gepository.
+This is my first Git Repository.
 <br>
 hello world !
 <br>
